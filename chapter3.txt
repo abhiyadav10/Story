@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is chapter 3
+=======
+This is chapter3 Welcome kfhjkahfjfkakjfhkafjh
+afdsdf
+>>>>>>> alien-plot
